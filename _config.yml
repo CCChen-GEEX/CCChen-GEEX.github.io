@@ -1,0 +1,64 @@
+# Personal settings: replace null with your own information.
+title: "Chunchun Chen (陈春春)"
+description: "Graph Machine Learning, Adversarial Learning"
+url: "https://ccchen-geex.github.io"
+baseurl: ""
+repository: "CCChen-GEEX/CCChen-GEEX.github.io"
+google_scholar_stats_enabled: false
+google_scholar_stats_use_cdn: true
+google_analytics_id: null
+google_site_verification: null
+bing_site_verification: null
+baidu_site_verification: null
+author:
+  name: "Chunchun Chen"
+  avatar: "images/avatar.png"
+  bio: "Ph.D. Student at Tongji University"
+  location: "Shanghai, China"
+  email: "c2chen@tongji.edu.cn"
+  github: "CCChen-GEEX"
+  googlescholar: "https://scholar.google.com/citations?user=K5aA_AUAAAAJ&hl=en"
+  researchgate: null
+  orcid: null
+  linkedin: null
+  uri: null
+include:
+  - _pages
+  - files
+exclude:
+  - google_scholar_crawler
+  - .github
+  - .bundle
+  - .sass-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - run_server.sh
+  - vendor
+  - node_modules
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+encoding: "utf-8"
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+      author_profile: true
+sass:
+  sass_dir: _sass
+  style: compressed
+permalink: /:categories/:title/
+timezone: Asia/Shanghai
+plugins:
+  - jekyll-sitemap
+  - jekyll-redirect-from
