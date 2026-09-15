@@ -19,9 +19,3 @@
 14. **Deep Discriminative Dictionary Pair Learning for Image Classification.** *Applied Intelligence*, 2023.
 15. **Self-Supervised Embedding for Subspace Clustering.** *CIKM*, 2021.
 16. **A Survey of Reinforcement Learning for Large Language Models under Data Scarcity: Challenges and Solutions.** *ACL Oral*, 2026.
-
-### Under Review
-
-- **Test-Time Graph Recalibration: Enhancing Robust Zero-Shot Inference for Graph Foundation Models.** *NeurIPS*.
-- **Serialized Graph Clustering with Ranking Alignment for Text-Attributed Graphs.** *TKDE*.
-- **Towards High-quality Text-attributed Graph Clustering with Large Language Models.** *TKDE*.
