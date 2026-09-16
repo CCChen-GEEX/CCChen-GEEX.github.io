@@ -48,6 +48,21 @@ Zhiyin Yu, Yuchen Mou, Juncheng Yan, Junyu Luo, **Chunchun Chen**, Xing Wei, Yun
 Wengang Guo, Wei Ye, **Chunchun Chen**, Xin Sun, Christian Böhm, Claudia Plant, Susanto Rahardja
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS-25</div><img src='images/PKD.png' alt="not available" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Preference-driven Knowledge Distillation for Few-shot Node Classification](https://proceedings.neurips.cc/paper_files/paper/2025/file/954b0037b87b0a1e965b49452eecab76-Paper-Conference.pdf) \\
+Xing Wei, **Chunchun Chen**, Rui Fan, Xiaofeng Cao, Sourav Medya, Wei Ye
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL Findings-25</div><img src='images/MARK.png' alt="not available" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Mark: Multi-agent collaboration with ranking guidance for text-attributed graph clustering](https://aclanthology.org/2025.findings-acl.314.pdf) \\
+Yiwei Fu\*, Yuxing Zhang\*, **Chunchun Chen**\*, Jianwen Ma, Quan Yuan, Rong-Cheng Tu, Xinli Huang, Wei Ye, Xiao Luo, Minghua Deng
+</div>
+</div>
+
 1. **Adversarial Augmentation with Maximum Discrepancy for Graph Contrastive Learning.** *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2026.
 2. **Edge Self-Adversarial Augmentation Enhances Graph Contrastive Learning Against Neighborhood Inconsistency.** *AAAI*, 2026.
 3. **Differentiated Graph Regularized Non-negative Matrix Factorization for Semi-Supervised Community Detection.** *Physica A*, 2022.
