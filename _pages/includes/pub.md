@@ -1,4 +1,4 @@
-# Projects and Publications
+# Publications
 {: #publications }
 
 ### Selected Publications
