@@ -60,9 +60,9 @@ Xing Wei, **Chunchun Chen**, Rui Fan, Xiaofeng Cao, Sourav Medya, Wei Ye
 Yiwei Fu\*, Yuxing Zhang\*, **Chunchun Chen**\*, Jianwen Ma, Quan Yuan, Rong-Cheng Tu, Xinli Huang, Wei Ye, Xiao Luo, Minghua Deng
 </div>
 </div>
-- Linkthief: Combining generalized structure knowledge with node similarity for link stealing attack against gnn, Yuxing Zhang, Siyuan Meng, **Chunchun Chen**, Mengyao Peng, Hongyan Gu, Xinli Huang, MM 2024.
-- Deep discriminative dictionary pair learning for image classification, Wenjie Zhu, Bo Peng, **Chunchun Chen**, Hao Chen, Applied Intelligence 2023.
-- Unified robust network embedding framework for community detection via extreme adversarial attacks, Wenjie Zhu, **Chunchun Chen**, Bo Peng, Information Sciences 2023.
-- Differentiated graph regularized non-negative matrix factorization for semi-supervised community detection, **Chunchun Chen**, Wenjie Zhu, Bo Peng, Physica A: Statistical Mechanics and its Applications 2022.
+- Linkthief: Combining generalized structure knowledge with node similarity for link stealing attack against gnn. Yuxing Zhang, Siyuan Meng, **Chunchun Chen**, Mengyao Peng, Hongyan Gu, Xinli Huang. MM 2024.
+- Deep discriminative dictionary pair learning for image classification. Wenjie Zhu, Bo Peng, **Chunchun Chen**, Hao Chen. Applied Intelligence 2023.
+- Unified robust network embedding framework for community detection via extreme adversarial attacks. Wenjie Zhu, **Chunchun Chen**, Bo Peng. Information Sciences 2023.
+- Differentiated graph regularized non-negative matrix factorization for semi-supervised community detection. **Chunchun Chen**, Wenjie Zhu, Bo Peng. Physica A: Statistical Mechanics and its Applications 2022.
 - Towards robust community detection via extreme adversarial attacks, **Chunchun Chen**, Wenjie Zhu, Bo Peng, Huijuan Lu, ICPR 2022.
-- Self-supervised embedding for subspace clustering, Wenjie Zhu, Bo Peng, **Chunchun Chen**, CIKM 2021.
+- Self-supervised embedding for subspace clustering. Wenjie Zhu, Bo Peng, **Chunchun Chen**. CIKM 2021.
