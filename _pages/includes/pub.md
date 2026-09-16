@@ -24,7 +24,12 @@ Jiayi Yang, Xing Wei, **Chunchun Chen**, Yi Feng, Wengang Guo, Rui Fan, Xiaofeng
 Quan Yuan, **Chunchun Chen**, Yuxing Zhang, Yaxiu Yu, Xiaoming Ju
 </div>
 </div>
-
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL-26</div><img src='images/DataScarcity.png' alt="not available" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[A Survey of Reinforcement Learning for Large Language Models under Data Scarcity: Challenges and Solutions](https://aclanthology.org/2026.acl-long.1045.pdf) \\
+Zhiyin Yu, Yuchen Mou, Juncheng Yan, Junyu Luo, **Chunchun Chen**, Xing Wei, Yunhui Liu, Hongru Sun, Yuxing Zhang, Jun Xu, Yatao Bian, Ming Zhang, Wei Ye, Tieke He, Jie Yang, Guanjie Zheng, Zhonghai Wu, Bo Zhang, Lei Bai, Xiao Luo
+</div>
+</div>
 1. **Adversarial Augmentation with Maximum Discrepancy for Graph Contrastive Learning.** *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2026.
 2. **Edge Self-Adversarial Augmentation Enhances Graph Contrastive Learning Against Neighborhood Inconsistency.** *AAAI*, 2026.
 3. **Differentiated Graph Regularized Non-negative Matrix Factorization for Semi-Supervised Community Detection.** *Physica A*, 2022.
