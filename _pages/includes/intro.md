@@ -1,3 +1,3 @@
-Hi! I'm Chunchun Chen, a Ph.D. student at Tongji University.
+Hi! I'm Chunchun Chen, a Ph.D. student in the Geometric dEep lEarning and Knowledge diScovery (GEEX) Group at Tongji University.
 
 My research focuses on graph machine learning and adversarial learning, with an emphasis on robust graph representation learning, graph clustering, community detection, and attacks and defenses for graph neural networks.
