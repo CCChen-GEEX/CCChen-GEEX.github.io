@@ -36,6 +36,18 @@ Zhiyin Yu, Yuchen Mou, Juncheng Yan, Junyu Luo, **Chunchun Chen**, Xing Wei, Yun
 **Chunchun Chen**, Xing Wei, Jiayi Yang, Chenrun Wang, Yiwei Fu, Yuxing Zhang, Xin Sun, Rui Fan, Wei Ye
 </div>
 </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS-26</div><img src='images/AMD.png' alt="not available" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Adversarial Augmentation With Maximum Discrepancy for Graph Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/11382041/) \\
+**Chunchun Chen**, Xing Wei, Yuxing Zhang, Wei Ye
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM-25</div><img src='images/BootSC.png' alt="not available" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Bootstrap Deep Spectral Clustering with Optimal Transport](https://arxiv.org/pdf/2508.04200?) \\
+Wengang Guo, Wei Ye, **Chunchun Chen**, Xin Sun, Christian Böhm, Claudia Plant, Susanto Rahardja
+</div>
+</div>
 1. **Adversarial Augmentation with Maximum Discrepancy for Graph Contrastive Learning.** *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2026.
 2. **Edge Self-Adversarial Augmentation Enhances Graph Contrastive Learning Against Neighborhood Inconsistency.** *AAAI*, 2026.
 3. **Differentiated Graph Regularized Non-negative Matrix Factorization for Semi-Supervised Community Detection.** *Physica A*, 2022.
