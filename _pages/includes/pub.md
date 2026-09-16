@@ -1,7 +1,13 @@
-# Publications
-{: #publications }
+# Publications (“*” denotes equal contribution)
 
-### Selected Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM-26</div><img src='images/MASK.png' alt="not available" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MASK: Minority-aware Semantic Alignment via Knowledge Enhancement for Long-tailed Graph Clustering](https://arxiv.org/pdf/2410.10329) \\
+Yiwei Fu*, **Chunchun Chen**\*, Yuxing Zhang*, Weizhi Zhang, Guanjie Zheng, Wei Ye, Xiao Luo, Philip S. Yu, Minghua Deng
+
+</div>
+</div>
 
 1. **Adversarial Augmentation with Maximum Discrepancy for Graph Contrastive Learning.** *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2026.
 2. **Edge Self-Adversarial Augmentation Enhances Graph Contrastive Learning Against Neighborhood Inconsistency.** *AAAI*, 2026.
