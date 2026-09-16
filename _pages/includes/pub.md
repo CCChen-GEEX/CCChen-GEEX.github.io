@@ -48,17 +48,21 @@ Zhiyin Yu, Yuchen Mou, Juncheng Yan, Junyu Luo, **Chunchun Chen**, Xing Wei, Yun
 Wengang Guo, Wei Ye, **Chunchun Chen**, Xin Sun, Christian Böhm, Claudia Plant, Susanto Rahardja
 </div>
 </div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS-25</div><img src='images/PKD.png' alt="not available" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Preference-driven Knowledge Distillation for Few-shot Node Classification](https://proceedings.neurips.cc/paper_files/paper/2025/file/954b0037b87b0a1e965b49452eecab76-Paper-Conference.pdf) \\
 Xing Wei, **Chunchun Chen**, Rui Fan, Xiaofeng Cao, Sourav Medya, Wei Ye
 </div>
 </div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL Findings-25</div><img src='images/MARK.png' alt="not available" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Mark: Multi-agent collaboration with ranking guidance for text-attributed graph clustering](https://aclanthology.org/2025.findings-acl.314.pdf) \\
 Yiwei Fu\*, Yuxing Zhang\*, **Chunchun Chen**\*, Jianwen Ma, Quan Yuan, Rong-Cheng Tu, Xinli Huang, Wei Ye, Xiao Luo, Minghua Deng
 </div>
 </div>
+- Linkthief: Combining generalized structure knowledge with node similarity for link stealing attack against gnn, Yuxing Zhang, Siyuan Meng, **Chunchun Chen**, Mengyao Peng, Hongyan Gu, Xinli Huang, MM 2024.
+- Deep discriminative dictionary pair learning for image classification, Wenjie Zhu, Bo Peng, **Chunchun Chen**, Hao Chen, Applied Intelligence 2023.
+- Unified robust network embedding framework for community detection via extreme adversarial attacks, Wenjie Zhu, **Chunchun Chen**, Bo Peng, Information Sciences 2023.
+- Differentiated graph regularized non-negative matrix factorization for semi-supervised community detection, **Chunchun Chen**, Wenjie Zhu, Bo Peng, Physica A: Statistical Mechanics and its Applications 2022.
+- Towards robust community detection via extreme adversarial attacks, **Chunchun Chen**, Wenjie Zhu, Bo Peng, Huijuan Lu, ICPR 2022.
+- Self-supervised embedding for subspace clustering, Wenjie Zhu, Bo Peng, **Chunchun Chen**, CIKM 2021.
