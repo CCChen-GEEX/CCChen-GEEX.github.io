@@ -5,7 +5,7 @@
 <div class='paper-box-text' markdown="1">
 
 [MASK: Minority-aware Semantic Alignment via Knowledge Enhancement for Long-tailed Graph Clustering](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=K5aA_AUAAAAJ&sortby=pubdate&citation_for_view=K5aA_AUAAAAJ:r0BpntZqJG4C) \\
-Yiwei Fu*, **Chunchun Chen**\*, Yuxing Zhang*, Weizhi Zhang, Guanjie Zheng, Wei Ye, Xiao Luo, Philip S. Yu, Minghua Deng
+Yiwei Fu\*, **Chunchun Chen**\*, Yuxing Zhang\*, Weizhi Zhang, Guanjie Zheng, Wei Ye, Xiao Luo, Philip S. Yu, Minghua Deng
 
 </div>
 </div>
