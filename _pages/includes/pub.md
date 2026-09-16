@@ -1,4 +1,4 @@
-# Publications <sub>(\* denotes equal contribution)</sub>
+# Publications <small>(\* denotes equal contribution)</small>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM-26</div><img src='images/MASK.png' alt="not available" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [MASK: Minority-aware Semantic Alignment via Knowledge Enhancement for Long-tailed Graph Clustering](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=K5aA_AUAAAAJ&sortby=pubdate&citation_for_view=K5aA_AUAAAAJ:r0BpntZqJG4C) \\
