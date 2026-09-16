@@ -1,4 +1,5 @@
-# Publications (“*” denotes equal contribution)
+# Publications 
+('*' denotes equal contribution)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM-26</div><img src='images/MASK.png' alt="not available" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
