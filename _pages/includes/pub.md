@@ -19,6 +19,14 @@ Xing Wei, Jiayi Yang, **Chunchun Chen**, Chenrun Wang, Xin Sun, Ming Li, Rui Fan
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML-26</div><img src='images/DyGMoCE.png' alt="not available" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Fast Mixture of Curvature-Aware Experts for Diverse and Dynamic Graph Topologies](https://openreview.net/pdf?id=eIZlhnkH2W) \\
+Jiayi Yang, Xing Wei, **Chunchun Chen**, Yi Feng, Wengang Guo, Rui Fan, Xiaofeng Cao, Xin Sun, Wei Ye
+
+</div>
+</div>
 
 1. **Adversarial Augmentation with Maximum Discrepancy for Graph Contrastive Learning.** *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2026.
 2. **Edge Self-Adversarial Augmentation Enhances Graph Contrastive Learning Against Neighborhood Inconsistency.** *AAAI*, 2026.
