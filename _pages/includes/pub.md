@@ -10,6 +10,16 @@ Yiwei Fu\*, **Chunchun Chen**\*, Yuxing Zhang\*, Weizhi Zhang, Guanjie Zheng, We
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM-26</div><img src='images/GAGT.png' alt="not available" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Gradual Adversarial Graph Transfer: Stabilizing Alignment with Dual Transitional Domains](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=K5aA_AUAAAAJ&sortby=pubdate&citation_for_view=K5aA_AUAAAAJ:j3f4tGmQtD8C) \\
+Xing Wei, Jiayi Yang, **Chunchun Chen**, Chenrun Wang, Xin Sun, Ming Li, Rui Fan, Hanli Wang, Wei Ye
+
+</div>
+</div>
+
+
 1. **Adversarial Augmentation with Maximum Discrepancy for Graph Contrastive Learning.** *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2026.
 2. **Edge Self-Adversarial Augmentation Enhances Graph Contrastive Learning Against Neighborhood Inconsistency.** *AAAI*, 2026.
 3. **Differentiated Graph Regularized Non-negative Matrix Factorization for Semi-Supervised Community Detection.** *Physica A*, 2022.
