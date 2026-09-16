@@ -30,6 +30,12 @@ Quan Yuan, **Chunchun Chen**, Yuxing Zhang, Yaxiu Yu, Xiaoming Ju
 Zhiyin Yu, Yuchen Mou, Juncheng Yan, Junyu Luo, **Chunchun Chen**, Xing Wei, Yunhui Liu, Hongru Sun, Yuxing Zhang, Jun Xu, Yatao Bian, Ming Zhang, Wei Ye, Tieke He, Jie Yang, Guanjie Zheng, Zhonghai Wu, Bo Zhang, Lei Bai, Xiao Luo
 </div>
 </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI-26</div><img src='images/EDA.png' alt="not available" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Edge Self-Adversarial Augmentation Enhances Graph Contrastive Learning Against Neighborhood Inconsistency](https://ojs.aaai.org/index.php/AAAI/article/download/39085/43047) \\
+**Chunchun Chen**, Xing Wei, Jiayi Yang, Chenrun Wang, Yiwei Fu, Yuxing Zhang, Xin Sun, Rui Fan, Wei Ye
+</div>
+</div>
 1. **Adversarial Augmentation with Maximum Discrepancy for Graph Contrastive Learning.** *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2026.
 2. **Edge Self-Adversarial Augmentation Enhances Graph Contrastive Learning Against Neighborhood Inconsistency.** *AAAI*, 2026.
 3. **Differentiated Graph Regularized Non-negative Matrix Factorization for Semi-Supervised Community Detection.** *Physica A*, 2022.
