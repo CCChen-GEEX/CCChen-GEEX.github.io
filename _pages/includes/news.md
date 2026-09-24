@@ -1,5 +1,6 @@
 # News
 2026.09.25: 🎉 Two papers accepted to NeurIPS 2026! Congrats to my collaborators.
+
 2026.09.22: 🎉 Awarded the A*STAR Research Internship.
 
 <details>
