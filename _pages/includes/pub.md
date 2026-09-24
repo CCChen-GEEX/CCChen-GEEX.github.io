@@ -1,4 +1,16 @@
 # Publications <small style="font-weight: normal;">( \* denotes equal contribution)</small>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS-26</div><img src='images/TRACE.png' alt="not available" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Test-Time Graph Recalibration: Enhancing Robust Zero-Shot Inference for Graph Foundation Models]() \\
+**Chunchun Chen**, Zhen Luo, Xing Wei, Yuxing Zhang, Xiaofeng Cao, Rui Fan, Ambuj Singh, Wei Ye
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS-26</div><img src='images/GCBM.png' alt="not available" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[The Graph Concept Bottleneck: Decoding Combinatorial Reasoning in GNNs for Interpretability]() \\
+Yue Niu, Zhaokai Sun, Jiayi Yang, **Chunchun Chen**, Xiaofeng Cao, Rui Fan, Xin Sun, Wei Ye
+</div>
+</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM-26</div><img src='images/MASK.png' alt="not available" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [MASK: Minority-aware Semantic Alignment via Knowledge Enhancement for Long-tailed Graph Clustering](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=K5aA_AUAAAAJ&sortby=pubdate&citation_for_view=K5aA_AUAAAAJ:r0BpntZqJG4C) \\
