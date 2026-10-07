@@ -1,3 +1,4 @@
 I am currently working toward a PhD degree at Tongji University, Shanghai, China. I am a member of the **G**eometric d**E**ep l**E**arning and **K**nowledge di**S**covery (GEEX) Group, supervised by Prof. [Wei Ye](https://yeweiysh.github.io/).
+Additionally, I am currently a research intern at the Agency for Science, Technology and Research (A*STAR) in Singapore, supervised by Dr. [Tiantian He](https://yeweiysh.github.io/) and Prof. [Yew Soon Ong](https://personal.ntu.edu.sg/asysong/home.html).
 
 My research focuses on machine learning and adversarial learning, with an emphasis on robust representation learning, clustering, and adversarial attacks and defenses on deep neural networks. More recently, I have also developed a strong interest in efficient AI models and am actively exploring this emerging field.
