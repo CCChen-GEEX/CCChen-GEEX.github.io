@@ -1,4 +1,5 @@
 # Honors and Awards
+- 2026.10 NeurIPS-26 Financial Assistance Award.
 - 2023.11 First Prize, 19th China Postgraduate Mathematical Modeling Competition.
 - 2022.12 The China National Scholarship for Graduate Students.
 
